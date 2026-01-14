@@ -3,7 +3,7 @@
   "description": "Taller de reparación en equipos de cómputo y celulares",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://andrerchant.github.io/valhalla",
+  "homepage": "https://www.valhalla-repair.com",
   "dependencies": {
     "lucide-react": "^0.309.0",
     "react": "^18.2.0",
